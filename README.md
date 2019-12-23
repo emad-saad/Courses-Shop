@@ -6,3 +6,4 @@ Enable-Migrations
 add-migration .....any name
 update-database
 then , run the project and enjoy view it
+you can add new course with click at admin and insert username: emad.saed and password:mernaemad
